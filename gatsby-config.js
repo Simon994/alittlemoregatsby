@@ -6,5 +6,8 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: 'A Little More Gatsby'
+  },
   plugins: ["gatsby-plugin-sass"],
 }
